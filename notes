@@ -12,7 +12,7 @@ Reasoned justifications of why they have chosen that solution
 meet needs of incoming and existing customers
 
 functional requirements - behavior of the system in a specific task of function eg: user registration, avalibity checking
-non functional requirements - qualties or characteristics of the system eg: security, accessibility
+non functional requirements - qualties or characteristics of the system eg: security, accessibility, usability, sacleabilty, maintainabilty 
 
 ^ --------------------------------------------
   | Id | Features | Priority | Justification |
