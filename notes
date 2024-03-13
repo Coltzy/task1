@@ -29,11 +29,6 @@ increase in popularity
 security
 relability
 scalability
-etc
-
-proposal (mention returning customers)
-as a <role>     i want to <goal>          so that<benefit>           acceptance criteria
-eg customer     eg book movie tickets     eg i can watch a movie     go to home page -> search for movie -> book tickets
 
 empathy map
 
@@ -54,7 +49,22 @@ sections of the system eg: layout, dashboard, booking tickets/rooms
 eg use the navigation bar
    viewing avaliable movies and room a seat for a movie
 
+as a <role>     i want to <goal>          so that<benefit>           acceptance criteria
+eg customer     eg book movie tickets     eg i can watch a movie     go to home page -> search for movie -> book tickets
 
 justification
 how the solution meets the client requirements (consitant layout (navbar, footer etc), login system (forgot password, security), dashboard)
 how potential risks will be reduced
+aql security how it applies to the gdpr and w3c (accessability)
+
+gdpr: 
+purpose limitation
+lawful (user accepting tos. gathering information with their permission)
+minimalisation only keeping nesaassery data
+accracy verificarion 
+
+w3c:
+perceivable text sizes, tts, color distingishes
+operable no photo shensitive content
+undersand (10-20 seconds is important) font sizes 12-16 suitable colour contrast
+    websites gives them information when they do wrong inputs
