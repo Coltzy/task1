@@ -43,3 +43,18 @@ empathy map
   eg how do i reset my password
 - does
   eg nativagtes to website login page and press "i forgot my password"
+
+proposal
+mention the tools used windows forms, sql
+user interface (consitant layout)
+
+user accetpance
+sections of the system eg: layout, dashboard, booking tickets/rooms
+- what the user can see and do on the page
+eg use the navigation bar
+   viewing avaliable movies and room a seat for a movie
+
+
+justification
+how the solution meets the client requirements (consitant layout (navbar, footer etc), login system (forgot password, security), dashboard)
+how potential risks will be reduced
