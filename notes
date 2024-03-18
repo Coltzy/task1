@@ -68,3 +68,60 @@ perceivable text sizes, tts, color distingishes
 operable no photo shensitive content
 undersand (10-20 seconds is important) font sizes 12-16 suitable colour contrast
     websites gives them information when they do wrong inputs
+
+task2
+
+## navigation map - eg:
+box with header of page and a short description of what its use is
+eg: home login "Main page of the site which contains the navbar and links to other parts of the site
+    and main information of the site to give the user a understanding of their service"
+
+        Home Page
+       \/            \/
+Registration Page      Non member page
+       \/
+  Buy Premium
+
+color topography/theory
+
+flowcharts/psudo code for different algorithms that will be used
+eg: logging in, registering, booking room etc
+    validating password (security checks, length, symbol, cap)
+
+## data requirements:
+database tables that could be would be used in development
+dataflow chart eg:
+    
+    ??? <- user -> payment subscription
+        \/
+          movie tickets
+
+## approch to testing
+white box testing
+    - testing internal structures
+    - access to the source code
+    - can be automated
+
+black box testing
+    - no access to code
+    - inputs/outputs
+    - more realisitic
+
+test table
+
+--------------------------------------------
+| test stratergy | test type (black/white) |
+
+stratergy example:
+purpose
+data set
+criteria
+test outcome
+
+# data dictionary
+-------------------------------------------------------------------------------------
+| field name   | data type | data format | field size | description    | example    |
+-------------------------------------------------------------------------------------
+| movie name   | string    | x           | 255        | name of movie  | limitless  |
+| release date | string    | DD-MM-YYYY  | -          | movie release  | 23/03/2011 |
+-------------------------------------------------------------------------------------
